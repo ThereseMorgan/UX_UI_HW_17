@@ -1,0 +1,101 @@
+* {
+    display: inline-block;
+    vertical-align: top;
+    color: blue;
+  }
+
+  .logo {
+      width: 23%;
+      padding: 1%;
+      text-align: center;
+  }
+
+  #nav {
+      width: 73%;
+      padding: 1%;
+  }
+
+  #ul {
+      width: 50%;
+      margin-left: auto;
+  }
+
+  #heroImg {
+      height: 600;
+      padding: 25px;
+  }
+
+  .content {
+      width: 500px;
+      margin: 0 auto;
+  }
+
+  footer{
+    background: #EEEEEE;
+    margin: 0 auto;
+    height: 30px;
+    padding-top: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+footer ul{
+margin: 0px;
+display: inline-block;
+vertical-align: top;
+}
+
+footer li {
+    float: left;
+    list-style-type: none;
+    line-height: 9px;
+    height: 11px;
+    border-right: 1px solid #354052;
+    padding: 0px 10px;
+}
+
+.header {
+    height: 250px;
+    max-height: 500px;
+    background: #354052;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+  }
+  #pageTopic {
+     text-align: center;
+  }
+   
+   .colorContainer {
+       display: inline-block;
+       margin: 15px;
+   }
+   .swatch {
+      height: 200px;
+      width: 170px;
+      border: 1px solid black;
+  }
+  .hexCode {
+      padding: 15px;
+      text-align: center;
+      border: 1px solid black;
+      border-top: none;
+      border-bottom-left-radius: 7px;
+      border-bottom-right-radius: 7px;
+  }
+
+  .type_container {
+      display: inline-block;
+      margin: 20px;
+  }
+  
+  .button {
+      display: inline-block;
+      padding: 15px;
+      margin: 15px;
+      width: 150px;
+      text-align: center;
+      color: white;
+      outline: 1px solid red;
+  }
+  
